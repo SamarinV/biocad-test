@@ -1,0 +1,25 @@
+const colorScheme: Record<string, string> = {
+	C: '#ffea00',
+	A: '#67e4a6',
+	I: '#67e4a6',
+	L: '#67e4a6',
+	M: '#67e4a6',
+	F: '#67e4a6',
+	W: '#67e4a6',
+	Y: '#67e4a6',
+	V: '#67e4a6',
+	P: '#67e4a6',
+	G: '#b388ff',
+	D: '#f06292',
+	E: '#f06292',
+	K: '#42a5f5',
+	R: '#42a5f5',
+	S: '#ba68c8',
+	T: '#ba68c8',
+	H: '#ba68c8',
+	Q: '#ba68c8',
+	N: '#ba68c8',
+	'-': '#d9d9d9',
+}
+
+export default colorScheme
