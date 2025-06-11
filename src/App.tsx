@@ -44,7 +44,7 @@ function App() {
 
 	useEffect(() => {
 		setFocus('seq1')
-	}, [])
+	}, [setFocus])
 
 	useEffect(() => {
 		if (seq2) {
